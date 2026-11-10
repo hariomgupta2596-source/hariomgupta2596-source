@@ -54,7 +54,7 @@ A passionate developer who enjoys building meaningful software, learning new tec
 ## Connect
 
 - GitHub: https://github.com/hariomgupta2596-source
-- LinkedIn: Add your profile link
+- LinkedIn: https://www.linkedin.com/in/ds-hariom-gupta/
 - Email: your.email@example.com
 
 Thanks for visiting my profile! 🚀
