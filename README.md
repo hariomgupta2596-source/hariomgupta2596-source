@@ -155,8 +155,8 @@ A single-file interactive HTML visualiser for stepping through algorithms one op
 | --- | --- | --- |
 | [LinearlyIndependent](https://github.com/hariomgupta2596-source/LinearlyIndependent) | Streamlit app exploring linear independence | Python, Streamlit |
 | [Student-Result-Management-App](https://github.com/hariomgupta2596-source/Student-Result-Management-App) | Marks storage and result calculation | Python |
+| [invisible-student](https://github.com/hariomgupta2596-source/invisible-student) | Earlier prototype of the Hogwarts mystery game | TypeScript, React |
 | [eve-slack-agent](https://github.com/hariomgupta2596-source/eve-slack-agent) | Slack agent starter on the Eve framework, deployed on Vercel | TypeScript |
-| [Calculater](https://github.com/hariomgupta2596-source/Calculater) | Early build, kept for the history | — |
 
 </details>
 
